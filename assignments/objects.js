@@ -25,6 +25,7 @@ const internOne = {
   "email" : "mmelloy@PushSubscription.edu",
   "gender" : "M",
 }
+console.log(internOne);
 
 const internTwo = {
   "id" : 2,
@@ -32,6 +33,7 @@ const internTwo = {
   "email" : "kdiben1@tinypic.com",
   "gender" : "M",
 }
+console.log(internTwo);
 
 const internThree = {
   "id" : 3,
@@ -39,6 +41,7 @@ const internThree = {
   "email" : "kmummery2@wikimedia.org",
   "gender" : "M",
 }
+console.log(internThree);
 
 const internFour = {
   "id" : 4,
@@ -46,6 +49,7 @@ const internFour = {
   "email" : "gmartinson3@illinois.edu",
   "gender" : "M",
 }
+console.log(internFour);
 
 const internFive = {
   "id" : 5,
@@ -53,6 +57,7 @@ const internFive = {
   "email" : "adaine5@samsung.com",
   "gender" : "F",
 }
+console.log(internFive);
 
 // ==== Challenge 2: Reading Object Data ==== 
 // Once your objects are created, log out the following requests from HR into the console:
